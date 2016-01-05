@@ -23,6 +23,8 @@ Using the new classes is backwards compatible.
 
 Review all the parameters you use before deploying this module in production.
 
+Fixing apt issues.
+
 Quick Start
 -----------
 
